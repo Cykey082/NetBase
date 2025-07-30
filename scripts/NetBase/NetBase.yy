@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"NetBase",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"NetBase",
+  "parent":{
+    "name":"NetBase",
+    "path":"folders/NetBase.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
