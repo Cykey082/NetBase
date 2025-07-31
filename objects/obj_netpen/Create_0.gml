@@ -16,3 +16,4 @@ beat=function(){
 	}
 beat()
 beat120=120
+pens=ds_list_create()

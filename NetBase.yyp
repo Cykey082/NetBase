@@ -41,6 +41,7 @@
   "resources":[
     {"id":{"name":"obj_netflag","path":"objects/obj_netflag/obj_netflag.yy",},},
     {"id":{"name":"obj_netpen","path":"objects/obj_netpen/obj_netpen.yy",},},
+    {"id":{"name":"obj_nettest","path":"objects/obj_nettest/obj_nettest.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"NetBase","path":"scripts/NetBase/NetBase.yy",},},
   ],
